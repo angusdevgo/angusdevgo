@@ -12,17 +12,11 @@ Passionate about systems programming, client architecture, reverse engineering, 
 
 ## 🔧 Technologies & Tools
 
-### Programming Languages
-[![Languages](https://skillicons.dev/icons?i=cs,go,cpp,c,kotlin,java,py,ts,js,lua)](https://skillicons.dev)
+### Core Languages
+[![Languages](https://skillicons.dev/icons?i=cs,go,cpp,kotlin,py,ts)](https://skillicons.dev)
 
-### Desktop, Mobile & Web Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,androidstudio,react,tailwind,electron,tauri,html,css)](https://skillicons.dev)
-
-### Systems, DevOps & Cloud
-[![Cloud & Systems](https://skillicons.dev/icons?i=git,github,docker,linux,windows,cloudflare)](https://skillicons.dev)
-
-### IDEs & Editors
-[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,pycharm)](https://skillicons.dev)
+### Frameworks & Ecosystem
+[![Tools](https://skillicons.dev/icons?i=dotnet,androidstudio,react,tauri,git,docker)](https://skillicons.dev)
 
 ---
 
