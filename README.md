@@ -23,14 +23,25 @@ Passionate about systems programming, client architecture, reverse engineering, 
 ## 🔗 Links & Featured Projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-angusdevgo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angusdevgo)
-[![Seep-Reverse-Lab](https://img.shields.io/badge/Project-Seep--Reverse--Lab-6f42c1?style=for-the-badge&logo=target&logoColor=white)](https://github.com/angusdevgo/Seep-Reverse-Lab)
-[![Aether-SSH](https://img.shields.io/badge/Project-Aether--SSH-0969da?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://github.com/angusdevgo/Aether-SSH)
-[![IDM_Pro_Tool](https://img.shields.io/badge/Project-IDM__Pro__Tool-2ea44f?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/angusdevgo/IDM_Pro_Tool)
-[![Scrcpy-Studio](https://img.shields.io/badge/Project-Scrcpy--Studio-d93f0b?style=for-the-badge&logo=android&logoColor=white)](https://github.com/angusdevgo/Scrcpy-Studio)
+[![IDM_Pro_Tool](https://img.shields.io/badge/IDM__Pro__Tool-2ea44f?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/angusdevgo/IDM_Pro_Tool)
+[![Stars](https://img.shields.io/github/stars/angusdevgo/IDM_Pro_Tool?style=for-the-badge&logo=github&color=333)](https://github.com/angusdevgo/IDM_Pro_Tool/stargazers)
+[![Forks](https://img.shields.io/github/forks/angusdevgo/IDM_Pro_Tool?style=for-the-badge&logo=git&color=333)](https://github.com/angusdevgo/IDM_Pro_Tool/network/members)
+
+[![Seep-Reverse-Lab](https://img.shields.io/badge/Seep--Reverse--Lab-6f42c1?style=for-the-badge&logo=target&logoColor=white)](https://github.com/angusdevgo/Seep-Reverse-Lab)
+[![Stars](https://img.shields.io/github/stars/angusdevgo/Seep-Reverse-Lab?style=for-the-badge&logo=github&color=333)](https://github.com/angusdevgo/Seep-Reverse-Lab/stargazers)
+[![Forks](https://img.shields.io/github/forks/angusdevgo/Seep-Reverse-Lab?style=for-the-badge&logo=git&color=333)](https://github.com/angusdevgo/Seep-Reverse-Lab/network/members)
+
+[![Aether-SSH](https://img.shields.io/badge/Aether--SSH-0969da?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://github.com/angusdevgo/Aether-SSH)
+[![Stars](https://img.shields.io/github/stars/angusdevgo/Aether-SSH?style=for-the-badge&logo=github&color=333)](https://github.com/angusdevgo/Aether-SSH/stargazers)
 
 ---
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=angusdevgo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Angus's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angusdevgo&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /></a> |
+<p align="left">
+  <a href="https://github.com/angusdevgo?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/Total_Stars-3.9k+-ffd700?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" /></a>
+  <a href="https://github.com/angusdevgo?tab=repositories"><img src="https://img.shields.io/badge/Total_Forks-1.1k+-58a6ff?style=for-the-badge&logo=git&logoColor=white" alt="Total Forks" /></a>
+</p>
+
+| <a href="https://github.com/angusdevgo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=angusdevgo&show_icons=true&theme=buefy&hide_border=true" alt="Angus's github stats" /></a> | <a href="https://github.com/angusdevgo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angusdevgo&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /></a> |
 |:---:|:---:|
