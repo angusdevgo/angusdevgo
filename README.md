@@ -16,18 +16,6 @@ Passionate about systems programming, client architecture, reverse engineering, 
   <a href="https://github.com/angusdevgo?tab=repositories"><img src="https://img.shields.io/badge/Total_Forks-1.1k+-58a6ff?style=for-the-badge&logo=git&logoColor=white" alt="Total Forks" /></a>
 </p>
 
----
-
-## 🔧 Technologies & Tools
-
-### Core Languages
-[![Languages](https://skillicons.dev/icons?i=cs,go,cpp,kotlin,py,ts)](https://skillicons.dev)
-
-### Frameworks & Ecosystem
-[![Tools](https://skillicons.dev/icons?i=dotnet,androidstudio,react,tauri,git,docker)](https://skillicons.dev)
-
----
-
 ## 🔗 Links & Featured Projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-angusdevgo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angusdevgo)
@@ -48,3 +36,16 @@ Passionate about systems programming, client architecture, reverse engineering, 
 
 | <a href="https://github.com/angusdevgo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=angusdevgo&show_icons=true&theme=buefy&hide_border=true" alt="Angus's github stats" /></a> | <a href="https://github.com/angusdevgo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angusdevgo&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /></a> |
 |:---:|:---:|
+
+---
+
+## 🔧 Technologies & Tools
+
+### Core Languages
+[![Languages](https://skillicons.dev/icons?i=cs,go,cpp,kotlin,py,ts)](https://skillicons.dev)
+
+### Frameworks & Ecosystem
+[![Tools](https://skillicons.dev/icons?i=dotnet,androidstudio,react,tauri,git,docker)](https://skillicons.dev)
+
+---
+
